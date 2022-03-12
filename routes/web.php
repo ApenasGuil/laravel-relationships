@@ -200,7 +200,7 @@ Route::get('/one-to-many-polymorphic', function () {
 });
 
 Route::get('/many-to-many-polymorphic', function () {
-    // dd('N2N-Polymorphic');
+    dd('N2N-Polymorphic');
     // TAGS N2N Course
     // Relacionamento genérico de N2N
 
